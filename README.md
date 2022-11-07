@@ -21,7 +21,7 @@ echo `curl -s https://www.pcloud.com/how-to-install-pcloud-drive-mac-os.html\?do
 3. Calculate SHA256 sum
 
 ```bash
-shasum -a 256 pCloud\ Drive\ 3.9.10.pkg
+shasum -a 256 pCloud\ Drive\ 3.11.9.pkg
 ```
 
 4. Update values (*version*, *sha256*, *code*, *pkg*) in cask formula
